@@ -1,0 +1,4 @@
+
+&lt;b&gt;ki
+&lt;b&gt;kiri
+&lt;script&gt;alert('pwned')&lt;/script&gt;
